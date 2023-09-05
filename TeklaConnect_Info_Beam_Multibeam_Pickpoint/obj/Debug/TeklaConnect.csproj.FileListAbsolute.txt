@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Tekla_API_Programs\22-07-2023 Tekla conn_multibeam\bin\Debug\TeklaConnect.exe.config
+C:\Users\hp\Desktop\Tekla_API_Programs\22-07-2023 Tekla conn_multibeam\bin\Debug\TeklaConnect.exe
+C:\Users\hp\Desktop\Tekla_API_Programs\22-07-2023 Tekla conn_multibeam\bin\Debug\TeklaConnect.pdb
+C:\Users\hp\Desktop\Tekla_API_Programs\22-07-2023 Tekla conn_multibeam\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\Tekla_API_Programs\22-07-2023 Tekla conn_multibeam\obj\Debug\TeklaConnect.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Tekla_API_Programs\22-07-2023 Tekla conn_multibeam\obj\Debug\TeklaConnect.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\Tekla_API_Programs\22-07-2023 Tekla conn_multibeam\obj\Debug\TeklaConnect.Form1.resources
+C:\Users\hp\Desktop\Tekla_API_Programs\22-07-2023 Tekla conn_multibeam\obj\Debug\TeklaConnect.Properties.Resources.resources
+C:\Users\hp\Desktop\Tekla_API_Programs\22-07-2023 Tekla conn_multibeam\obj\Debug\TeklaConnect.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Tekla_API_Programs\22-07-2023 Tekla conn_multibeam\obj\Debug\TeklaConnect.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Tekla_API_Programs\22-07-2023 Tekla conn_multibeam\obj\Debug\TeklaConnect.csproj.CopyComplete
+C:\Users\hp\Desktop\Tekla_API_Programs\22-07-2023 Tekla conn_multibeam\obj\Debug\TeklaConnect.exe
+C:\Users\hp\Desktop\Tekla_API_Programs\22-07-2023 Tekla conn_multibeam\obj\Debug\TeklaConnect.pdb
